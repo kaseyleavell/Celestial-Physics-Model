@@ -5,8 +5,8 @@
 /*
 FUNCTION MACROS
 */
-//#define DELTA_T 86400	//This is currently a day in seconds
-#define DELTA_T 1
+//#define DELTA_T 86400	//This is an earth day in seconds
+#define DELTA_T 1	//used for ease of debugging
 class Mass
 {
 	//This class will be the parent class for all stars, planets and asteroids.
