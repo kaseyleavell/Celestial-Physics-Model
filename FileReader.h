@@ -12,6 +12,7 @@ struct CelBody {
 	int van;
 	char ascii;
 };
+//Not yet funcitoning in full capacity Still quite buggy
 class FileReader
 {
 public:
